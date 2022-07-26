@@ -1,0 +1,40 @@
+form {
+    margin: 0 auto;
+}
+p {
+    font-size: 18px;
+    font-weight: 600;
+}
+.reg-wrapper {
+    width: 300px;
+    height: 500px;
+    margin: 100px auto 0;
+    text-align: center;
+}
+.login-wrapper {
+    width: 300px;
+    height: 500px;
+    margin: 100px auto 0;
+    text-align: center;
+}
+.start {
+    width: 50%;
+    height: 50px;
+    margin: 50px auto;
+}
+.showError {
+    width: 300px;
+    margin: 20px auto;
+    color: red;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+}
+.showReg {
+    width: 300px;
+    margin: 20px auto;
+    color: green;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+}
